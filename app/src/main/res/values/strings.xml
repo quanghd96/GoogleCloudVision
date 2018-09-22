@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Google Cloud Vision</string>
+    <string name="api_key">xxx</string>
+</resources>
